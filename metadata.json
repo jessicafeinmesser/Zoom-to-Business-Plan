@@ -1,0 +1,7 @@
+{
+  "name": "FullbookAI Zoom to Business Plan",
+  "description": "A high-performance dashboard for FullbookAI workflow automation, featuring an AI-powered business plan generator and Python script exporter for Zoom-to-GHL integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
